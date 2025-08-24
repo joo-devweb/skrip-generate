@@ -1,0 +1,5 @@
+{
+  "name": "Script Generate",
+  "description": "An AI co-pilot that generates and iteratively modifies complete project structures via an interactive chat. Users can provide text prompts and upload error screenshots for the AI to debug and fix the code, which can then be downloaded as a ZIP file.",
+  "requestFramePermissions": []
+}
